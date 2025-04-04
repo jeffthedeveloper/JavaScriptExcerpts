@@ -1,0 +1,13 @@
+[
+  {
+    "alunos": [
+      "Ana", "João", "Maria", "Pedro", "Beatriz", "Sofia", "Enzo", "Lucas", "Gabriel", "Julia", "Guilherme", "Laura", "Isabela", "Manuela", "Matheus"
+    ],
+    "notas_prova1": [
+      9.32, 9.87, 9.11, 8.23, 7.65, 8.78, 7.12, 6.45, 5.89, 6.71, 5.23, 6.12, 5.98, 6.87, 5.55
+    ],
+    "notas_prova2": [
+      9.65, 9.21, 9.99, 7.89, 8.12, 8.54, 7.77, 6.99, 5.11, 6.23, 5.78, 6.54, 5.32, 6.01, 5.67
+    ]
+  }
+]
